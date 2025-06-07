@@ -2,7 +2,7 @@
 
 ## 🔗 Live Preview
 
-👉 [Click here to view the live app](https://your-deployment-url.vercel.app)
+👉 [Click here to view the live app](https://ziaalam7.github.io/Mentoga_Task5/)
 
 This is a **React-based weather application** that provides detailed **3-day weather forecasts** for cities across **Pakistan**. Built as part of my **internship Task 5 at Mentoga**, the app uses real-time weather data to deliver current conditions and upcoming forecasts in a clean and responsive UI.
 
